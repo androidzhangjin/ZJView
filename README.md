@@ -89,7 +89,6 @@ implementation 'com.github.androidzhangjin:ZJView:v0.0.1'
     <com.zjview.library.ZJRelativeLayout
         android:layout_width="200dp"
         android:layout_height="400dp"
-        android:text="垂直渐变"
         android:layout_marginTop="10dp"
         app:gradient_orientation="TOP_BOTTOM"
         android:gravity="center"
