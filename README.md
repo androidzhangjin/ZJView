@@ -1,4 +1,5 @@
 # ZJView
+Color gradient in different directions
 不同方向的颜色渐变、圆角、边框
 
 <img src="https://img-blog.csdnimg.cn/20210514114745247.jpg" width="350"/>
